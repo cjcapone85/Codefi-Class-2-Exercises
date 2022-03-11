@@ -1,0 +1,1 @@
+//<script src="./java2.js"></script></body>
