@@ -5,7 +5,6 @@ const groceryList = [
     {name: 'Spinach', price: '30'},
     {name: 'Chips', price: '30'},
 ];
-
 const foodList= document.querySelector(".food-list")
 
 for(let item of groceryList) {
